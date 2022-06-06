@@ -1,2 +1,2 @@
 # Project
-Assistant for visually imapired
+Assistant for visually imapired people
